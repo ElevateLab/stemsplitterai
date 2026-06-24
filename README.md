@@ -13,8 +13,8 @@ StemSplitterAI separates any song into individual stems - vocals, drums, bass, a
 - AI stem separation with multi-format export (WAV, MP3, FLAC)
 - Interactive waveform workstation with per-stem volume, mute, and solo controls
 - Task presets: Vocal Remover, Drum Remover, Bass Remover, Karaoke Maker, Full Stems
-- Free 5-minute trial, no credit card required
-- Pay per minute from $0.10, no subscription - credits never expire
+- Free 5-minute trial (no signup) plus 3 free minutes daily for registered users
+- One-time Minute Packs from $1.99 (no subscription, minutes never expire) or an Unlimited Plan from $9.99/month
 
 ## How it works
 
@@ -53,15 +53,17 @@ Download your custom mix as a single file (WAV or MP3), or grab each stem indivi
 
 ## Pricing
 
-| Plan | Minutes | Price | Per Min |
-|------|---------|-------|---------|
-| Free | 5 min | $0 | - |
-| Starter | 10 min | $1.99 | $0.20 |
-| Creator | 30 min | $4.99 | $0.17 |
-| Pro | 120 min | $14.99 | $0.12 |
-| Studio | 300 min | $29.99 | $0.10 |
+| Plan | Processing | Price |
+|------|-----------|-------|
+| Free trial (no signup) | 5 min | $0 |
+| Daily free (registered) | 3 min/day | $0 |
+| Starter Pack | 10 min | $1.99 |
+| 12-Minute Pack | 12 min | $6.99 |
+| 300-Minute Pack | 300 min | $39.99 |
+| Unlimited (monthly) | Unlimited | $9.99/mo |
+| Unlimited (yearly) | Unlimited | $59.88/yr |
 
-Registered users also get 5 free minutes on signup and 3 free minutes every day.
+One-time Minute Packs never expire and need no subscription. The 300-Minute Pack and Unlimited Plan include Batch Mode.
 
 ## Try it
 
